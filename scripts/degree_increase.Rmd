@@ -1,0 +1,24 @@
+---
+title: "Examining Degree Increase in US"
+author: "Will Doyle"
+date: "9/23/2019"
+output: html_document
+---
+
+Thinking about a descriptive approach to underestanding total degree increase 
+in the US, 2000-2019.
+
+1. How many more degrees?
+2. Where were the degrees awarded?
+3. Are we on track for any of the goals? Where is it closr or farther away?
+4. Can we say whether degree increases tracked with any of the 
+proposed policy changes?
+5. Can we say whether they tracked with anything else?
+
+What's a degree? 
+
+Let's say it's an AA or a BA. Figure out why this is ok. 
+
+
+
+
